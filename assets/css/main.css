@@ -1954,22 +1954,22 @@ input, select, textarea {
 			width: auto;
 			margin: 0;
 			padding: 0; */
-			background: url('/images/cloud.jpg') center/cover no-repeat;
+			background: url('./images/cloud.jpg') center/cover no-repeat;
 		}
 		.box.style2b {
-			background: url('/images/cloud.jpg') center/cover no-repeat;
+			background: url('./images/cloud.jpg') center/cover no-repeat;
 		}
 		.box.style2c {
-			background: url('/images/cloud.jpg') center/cover no-repeat;
+			background: url('./images/cloud.jpg') center/cover no-repeat;
 		}
 		.box.style2d {
-			background: url('/images/cloud.jpg') center/cover no-repeat;
+			background: url('./images/cloud.jpg') center/cover no-repeat;
 		}
 		.box.style2e {
-			background: url('/images/cloud.jpg') center/cover no-repeat;
+			background: url('./images/cloud.jpg') center/cover no-repeat;
 		}
 		.box.style2f {
-			background: url('/images/cloud.jpg') center/cover no-repeat;
+			background: url('./images/cloud.jpg') center/cover no-repeat;
 		}
 		
 		.box.style2 h3 {
